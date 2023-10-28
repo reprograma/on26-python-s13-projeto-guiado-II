@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online 26 |Python | Semana 10 | 2023 | Professora Edilene Lopes
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -15,52 +15,40 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+* [Apresentação de dados](#tema1)
+
+
 
 ## Conteúdo
 ### Tema1 
 1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
+
 ### Tema2 
-1. [Tópico 3](#topico3)
+1. [Projeto Guiado](#topico3)
    * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
    
-### Tema3
-1. [Tópico 4](#topico4)
+   
+
 
 ### Tema1 
 
 #### Topico1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
+A apresentação de dados com Python e Pandas é a prática de importar, limpar, explorar e analisar dados de forma eficaz. A biblioteca Pandas permite a manipulação de dados, incluindo limpeza, resumo estatístico e agrupamento. Em conjunto com bibliotecas de visualização, como Matplotlib. Python e Pandas são ferramentas poderosas para transformar dados em informações compreensíveis e tomar decisões embasadas em informações.
 
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
+ 
 
 ### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
 ##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
+Realizar a análise de um conjunto de dados específico. Isso pode envolver a importação, limpeza e tratamento de dados. Assim como resumo estatístico.
+A aplicação de técnicas de manipulação de dados com Pandas. Você será desafiada a criar gráficos e visualizações a partir dos dados. Com o uso da biblioteca de visualização Matplotlib. 
+Bem como a interpretação dos gráficos e a formulação de conclusões com base nos dados analisados
 
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
 
-***
+
+
 ### Exercícios 
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
