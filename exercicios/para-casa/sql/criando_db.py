@@ -22,10 +22,8 @@ next(file)
 
 conteudo = csv.reader(file)
 
-inserir_conteudo = "INSERT INTO dados2022 (Idade, Faixa, Genero, Etnia, PCD, Estado, UF)\
-    VALUES (?, ?, ?, ?, ?, ?, ?)"
-
-cursor.executemany(inserir_conteudo, conteudo)
+for row in conteudo:
+    cursor.execute("INSERT INTO dados2022 (Idade, Faixa, Genero, Etnia, PCD, Estado, UF) VALUES (?, ?, ?, ?, ?, ?, ?)")
 
 selecionar_tudo = "SELECT * FROM dados2022"
 
@@ -33,5 +31,7 @@ entradas = cursor.execute(selecionar_tudo).fetchall()
 
 database.commit()
 database.close()
+
+
 
 
