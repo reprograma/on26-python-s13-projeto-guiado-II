@@ -2,7 +2,7 @@
 
 ### Contextualização e Resumo da Análise
 
-Projeto Guiado que fez parte do bootcamp "Python: Fundamentos e Análise de Dados" da [{reprograma}](https://reprograma.com.br/curso-python/), realizado no segundo semestre de 2023.
+Projeto Guiado que fez parte do bootcamp "Python: Fundamentos e Análise de Dados" da [{reprograma}](https://reprograma.com.br/curso-python/), realizado no segundo semestre de 2023. O projeto foi desenvolvido ao longo da Semana 13 do curso.
 
 [Repositório no GitHub](https://github.com/zenite-serena/Emissao-de-CO2)
 
