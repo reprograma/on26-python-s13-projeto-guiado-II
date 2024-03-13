@@ -2,67 +2,27 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Projeto Guiado III - Saúde mental de estudantes universitários
 
 Turma Online 26 |Python | Semana 10 | 2023 | Professora Edilene Lopes
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras intrucoes caso necessario]
+### Breve História dos dados
+Dados coletados de alunos da Universidade Islâmica Internacional da Malásia através da plataforma Google Forms em 2020. A pesquisa contou com a participação de 101 alunos de diversas áreas. Tendo em vista que, nesse ano havia 26.000 alunos matrículados, a pesquisa é uma amostra de, aproximadamente, 0,39% de alunos.
 
-### Resumo
-O que veremos na aula de hoje?
-* [Apresentação de dados](#tema1)
+### Base de dados
+Os dados foram retirados da Plataforma Kaggle
 
+### Objetivo
+Praticar a análise de dados utilizando os recursos do Python e de suas bibliotecas.
 
+### Seguimento da Análise de Dados
+Os dados vão ser analisados e filtrados buscando entender, sobretudo, como se encontra a saúde mental das mulheres nessa Universidade em comparação a saúde mental dos homens.
 
-## Conteúdo
-### Tema1 
-1. [Tópico 1](#topico1)
+# Código e Análise de dados
+[Saúde Mental de Estudantes Universitários](https://github.com/NallaCloviel/on26-python-s13-projeto-guiado-III/blob/main/exercicios/para-casa/ProjetoGuiado-S13.ipynb)
 
-### Tema2 
-1. [Projeto Guiado](#topico3)
-   * [Subtópico 1](#subtopico1)
-   
-   
+## Insights da Análise
+Pode-se notar que, de acordo com os dados levantados na pesquisa, os alunos possuem mais problemas na saúde mental do que as alunas, contudo, as alunas ainda são as que mais buscam ajuda para realizar o tratamento. Ainda que não seja possível avaliar com certeza, há uma possibilidade desse fato impactar no desempenho academico de todos os estudantes, uma vez que a maioria das alunas possuem um CGPA com nota excelente (3.50-4.00) em comparação aos alunos.
 
 
-### Tema1 
-
-#### Topico1
-
-A apresentação de dados com Python e Pandas é a prática de importar, limpar, explorar e analisar dados de forma eficaz. A biblioteca Pandas permite a manipulação de dados, incluindo limpeza, resumo estatístico e agrupamento. Em conjunto com bibliotecas de visualização, como Matplotlib. Python e Pandas são ferramentas poderosas para transformar dados em informações compreensíveis e tomar decisões embasadas em informações.
-
- 
-
-### Tema2
-
-##### Subtopico1
-Realizar a análise de um conjunto de dados específico. Isso pode envolver a importação, limpeza e tratamento de dados. Assim como resumo estatístico.
-A aplicação de técnicas de manipulação de dados com Pandas. Você será desafiada a criar gráficos e visualizações a partir dos dados. Com o uso da biblioteca de visualização Matplotlib. 
-Bem como a interpretação dos gráficos e a formulação de conclusões com base nos dados analisados
-
-
-
-
-
-### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
-
-### Material da aula 
-
-### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-
-
-<p align="center">
-Desenvolvido com :purple_heart:  
-</p>
-
+#### Desenvolvido por Nargylla Cloviel
