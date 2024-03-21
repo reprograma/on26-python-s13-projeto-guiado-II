@@ -9,7 +9,9 @@ Turma Online 26 |Python | Semana 10 | 2023 | Professora Edilene Lopes
 ### Breve História dos dados
 Dados coletados de alunos da Universidade Islâmica Internacional da Malásia através da plataforma Google Forms em 2020. A pesquisa contou com a participação de 101 alunos de diversas áreas. Tendo em vista que, nesse ano havia 26.000 alunos matrículados, a pesquisa é uma amostra de, aproximadamente, 0,39% de alunos.
 
-[[<img>](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/7d91f77fdfe06de77375d16037a23016)](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/7d91f77fdfe06de77375d16037a23016)
+<p align="center">
+ <img style="border-radius: 50%;" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jusbrasil.com.br%2Fnoticias%2Fsaude-mental-de-universitarios-pernambucanos-preocupa-professores%2F504456338&psig=AOvVaw1YIhp3-nL9hEbUnZoK5ihM&ust=1711117636821000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCHkYnIhYUDFQAAAAAdAAAAABAE" width="700px;"/>
+</p>
 
 ### Base de dados
 Os dados foram retirados da Plataforma Kaggle
