@@ -9,7 +9,7 @@ Turma Online 26 |Python | Semana 10 | 2023 | Professora Edilene Lopes
 ### Breve História dos dados
 Dados coletados de alunos da Universidade Islâmica Internacional da Malásia através da plataforma Google Forms em 2020. A pesquisa contou com a participação de 101 alunos de diversas áreas. Tendo em vista que, nesse ano havia 26.000 alunos matrículados, a pesquisa é uma amostra de, aproximadamente, 0,39% de alunos.
 
-[<img>](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/7d91f77fdfe06de77375d16037a23016)
+[[<img>](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/7d91f77fdfe06de77375d16037a23016)](https://thumbs.jusbr.com/imgs.jusbr.com/publications/images/7d91f77fdfe06de77375d16037a23016)
 
 ### Base de dados
 Os dados foram retirados da Plataforma Kaggle
